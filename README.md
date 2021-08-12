@@ -1,1 +1,1 @@
-# class-26-project
+# Project Template 26
